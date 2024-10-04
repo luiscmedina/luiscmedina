@@ -52,11 +52,22 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luiscmedina&theme=radical)
+### 📊 GitHub Stats
 
-### Contribution Details
-![Detailed GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscmedina&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Streak Stats</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiscmedina&theme=radical" alt="GitHub Streak" />
+      </td>
+      <td width="50%">
+        <h3>Contribution Details</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscmedina&theme=radical" alt="Detailed GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🤝 Let's Connect
 
