@@ -66,6 +66,17 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=luiscmedina&theme=react-dark)
 
+## 📊 Additional GitHub Stats
+
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luiscmedina&theme=radical)
+
+### Contribution Details
+![Detailed GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscmedina&theme=radical)
+
+### GitHub Metrics
+![GitHub Metrics](https://metrics.lecoq.io/luiscmedina?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FNew_York)
+
 ## 🤝 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jluiscmedina/)
