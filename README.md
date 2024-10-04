@@ -64,5 +64,3 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jluiscmedina/)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://luiscmedina.com/)
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
