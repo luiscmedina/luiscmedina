@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in modern web technologies and cloud services. My goal is to create efficient, scalable, and user-friendly applications that make a difference.
 
+![Profile Views](https://komarev.com/ghpvc/?username=luiscmedina&color=blueviolet)
+
 ## 🚀 Skills
 
 ### Frontend
@@ -50,27 +52,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
 ### Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luiscmedina&theme=radical)
 
 ### Contribution Details
 ![Detailed GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscmedina&theme=radical)
-
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscmedina&layout=compact&theme=radical)
-
-### Overall Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscmedina&show_icons=true&theme=radical)
-
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=luiscmedina&theme=darkhub&no-frame=true&margin-w=15)
-
-</div>
-
 
 ## 🤝 Let's Connect
 
