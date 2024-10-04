@@ -1,4 +1,4 @@
-# 👨‍💻 Full-Stack Developer & Cloud Enthusiast
+# 👨‍💻 Full-Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in modern web technologies and cloud services. My goal is to create efficient, scalable, and user-friendly applications that make a difference.
 
