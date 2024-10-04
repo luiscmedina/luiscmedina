@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jluiscmedina/)
-- Portfolio: [Your Portfolio Website](https://luiscmedina.com/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jluiscmedina/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://luiscmedina.com/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
